@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C0OCWtiE2b52qWGrVT/voUDbuJVujqodNao2Z+Fhwgg=",
+  "Source": "TestAWSHost",
+  "BasePath": "_content/TestAWSHost",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
